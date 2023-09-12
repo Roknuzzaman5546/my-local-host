@@ -2,12 +2,12 @@
     {
       "Id": 1,
       "brand": "casio",
-      "price": 1400
+      "price": 350
     },
     {
       "Id": 2,
-      "brand": "conclick",
-      "price": 250
+      "brand": "royalmalvat",
+      "price": 1600
     },
     {
       "Id": 3,
@@ -21,7 +21,7 @@
     },
     {
       "Id": 5,
-      "brand": "float",
+      "brand": "float in pak",
       "price": 420
     }
   ]
